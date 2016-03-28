@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fahrenheit to Celsius (ºF to ºC)</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a temperature</string>
+    <string name="output_message">Output</string>
+    <string name="button_celsius">Celsius</string>
+    <string name="button_fahrenheit">Fahrenheit</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
