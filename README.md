@@ -1,3 +1,4 @@
 # Temperature_Converter
 Fahrenheit to Celsius (ºF to ºC)
-<img src=Temperature_Converter/layout-2016-03-27-215812.png" width="40%" height="20%" alt="layout">
+
+![image](https://github.com/JonathanZhew/Temperature_Converter/blob/master/layout-2016-03-27-215812.png)
